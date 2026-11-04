@@ -1,0 +1,9 @@
+{
+  "name": "lab-5-calculator",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Calculator unit testing with GitHub Actions",
+  "scripts": {
+    "test": "node --test"
+  }
+}
